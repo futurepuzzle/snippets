@@ -1,0 +1,16 @@
+
+body {
+  background-color: lightblue;
+  grid-column: left;
+}
+p {
+  border: blue, 5px;
+  float: left;
+  color: purple;
+}
+table {
+  float: left;
+}
+td {
+  color: darkorange;
+}
